@@ -36,3 +36,7 @@
 - BIRADS - 0 if the breast required follow-up, 1 if the breast was rated as negative for cancer, and 2 if the breast was rated as normal. Only provided for train.
 - prediction_id - The ID for the matching submission row. Multiple images will share the same prediction ID. Test only.
 - difficult_negative_case - True if the case was unusually difficult. Only provided for train.
+
+- Dataset from Kaggle : https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data
+
+
