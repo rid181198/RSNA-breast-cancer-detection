@@ -37,6 +37,9 @@
 - prediction_id - The ID for the matching submission row. Multiple images will share the same prediction ID. Test only.
 - difficult_negative_case - True if the case was unusually difficult. Only provided for train.
 
-- Dataset from Kaggle : https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data
+- Image train dataset from Kaggle : https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data
+- The processed train dataset after implementing the notebook "Data_featuring_images.ipynb" : https://www.kaggle.com/datasets/ridheshgoti/output
+
+
 
 
