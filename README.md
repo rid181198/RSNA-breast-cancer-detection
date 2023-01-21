@@ -42,4 +42,5 @@
 
 
 
+Run the requirements.txt to install the necessary packages using pip install -r requirements.txt
 
